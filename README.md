@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **MERN Stack,Data Structures and Algorithms and**
 
-- 🔭 Have a look at my Portfolio **https://inspiring-feynman-3132da.netlify.app/**
-
 - 💬 Ask me about **JAVASCRIPT/HTML/CSS/REACT/MONGODB**
+
+- 🔭 Have a look at my Portfolio **https://inspiring-feynman-3132da.netlify.app/**
 
 - 📫 How to reach me **aishwarya.jadhav0649@gmail.com**
 
