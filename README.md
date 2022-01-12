@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aishwarya Jadhav, Full Stack Web Developer</h1>
 
- <h3 align="center"> Passionate about developing Excellent problem solving skills and
-              ability to perform well in a team.</h3>
+ <h3 align="center"> Passionate about developing Excellent problem solving skills and ability to perform well in a team.Effective Communicator and a learning enthusiast with a proactive attitude.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aishwaryaj20&label=Profile%20views&color=0e75b6&style=flat" alt="aishwaryaj20" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aishwaryaj20" alt="aishwaryaj20" /></a> </p>
