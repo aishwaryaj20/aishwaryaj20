@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **aishwarya.jadhav0649@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1dIVC0j7JI-R7WYI4nZhmyIe0aJ5LyoYA/view?usp=sharing](https://drive.google.com/file/d/1dIVC0j7JI-R7WYI4nZhmyIe0aJ5LyoYA/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Xvq2CB1zp2vSaRCXK0N_ATzXqSbVRK7l/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
