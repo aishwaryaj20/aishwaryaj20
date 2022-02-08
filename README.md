@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **JAVASCRIPT/HTML/CSS/REACT/MONGODB**
 
-- 🔭 Have a look at my Portfolio **https://aishwaryaportfolio2.vercel.app/**
+- 🔭 Have a look at my Portfolio **https://aishwaryajadhavportfolio.vercel.app/**
 
 - 📫 How to reach me **aishwarya.jadhav0649@gmail.com**
 
